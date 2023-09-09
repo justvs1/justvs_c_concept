@@ -1,0 +1,21 @@
+id = 0
+name  = justvs
+Roll no : 25
+CGP = 4 
+Teacher's name  = suhani
+
+
+id = 0
+name  = vsdds
+Roll no : 4
+CGP = 5 
+Teacher's name  = sdffeef
+
+
+id = 1
+name  = sai
+Roll no : 12
+CGP = 8 
+Teacher's name  = tesf
+
+
